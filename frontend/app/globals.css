@@ -1,0 +1,163 @@
+@import "tailwindcss";
+
+
+.primary-text {
+  color: #1B3B5D;
+}
+
+/* * Primary brand color
+* Logo
+* Headings
+* Navbar
+* Footer
+* Sidebar
+* Primary buttons
+* Icons */
+
+
+.secondary-text {
+  color: #C5A059;
+}
+
+/* * Accent color
+* Premium highlights
+* CTA emphasis
+* Ratings
+* Badges
+* Active states
+
+
+Represents:
+Luxury, exclusivity, premium hospitality
+
+Rule:
+Use sparingly.
+Gold should never dominate the interface.
+*/
+
+
+
+
+.body-text {
+  color: #475569;
+}
+
+
+.muted-text {
+  color: #94A3B8;
+}
+
+
+
+
+
+
+.primary-bg {
+  background-color: #FAFAFA;
+
+  /* * Main background
+* Sections
+* Dashboard content area
+
+Represents:
+Cleanliness, openness, luxury */
+
+}
+
+
+.secondary-bg {
+  background-color: #F5F5DC;
+
+
+  /* * Secondary background
+* Testimonial sections
+* Luxury content blocks
+ */
+
+
+}
+
+
+
+
+.premium-bg {
+  background-color: #D4C5A9;
+
+  /* * Soft highlights
+* Premium sections
+* Decorative backgrounds
+*/
+}
+
+
+
+
+
+
+.border-color {
+  border-color: #E5E7EB;
+}
+
+
+.primary-button {
+  background-color: #1B3B5D;
+  color: #FFFFFF;
+}
+
+.primary-button:hover {
+  background-color: #15304A;
+}
+
+.secondary-button {
+  border-color: #1B3B5D;
+  color: #1B3B5D;
+}
+
+
+.premium-button {
+  background-color: #C5A059;
+  color: #FFFFFF;
+}
+
+.premium-button:hover {
+  background-color: #B38D45;
+}
+
+
+.nav-bg {
+  background-color: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(80px);
+  -webkit-backdrop-filter: blur(80px);
+}
+
+.nav-text {
+  color: #1B3B5D;
+}
+
+.nav-active {
+  color: #C5A059;
+}
+
+
+.card {
+  background-color: #FFFFFF;
+  border-color: #E5E7EB;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+}
+
+.success-text {
+  color: #10B981;
+}
+
+.warning-text {
+  color: #F59E0B;
+}
+
+.error-text {
+  color: #EF4444;
+}
+
+.info-text {
+  color: #3B82F6;
+}

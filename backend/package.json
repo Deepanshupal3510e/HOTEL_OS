@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is a perfect hotel management system called HOTELOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepanshupal3510e/HOTEL_OS.git"
+  },
+  "keywords": [
+    "HOTEL_OS"
+  ],
+  "author": "Deepanshu pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepanshupal3510e/HOTEL_OS/issues"
+  },
+  "homepage": "https://github.com/Deepanshupal3510e/HOTEL_OS#readme",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.7.0"
+  }
+}

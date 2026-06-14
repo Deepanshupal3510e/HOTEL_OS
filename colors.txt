@@ -1,0 +1,356 @@
+# HotelOS Brand Guidelines
+
+## Brand Identity
+
+HotelOS is a premium hospitality technology platform focused on hotel management, hotel booking, revenue optimization, and guest experiences.
+
+Brand Personality:
+
+* Premium
+* Luxury
+* Trustworthy
+* Modern
+* Enterprise
+* Sophisticated
+* Minimalist
+
+---
+
+# Primary Brand Colors
+
+## Primary Navy
+
+HEX: #1B3B5D
+
+Purpose:
+
+* Primary brand color
+* Logo
+* Headings
+* Navbar
+* Footer
+* Sidebar
+* Primary buttons
+* Icons
+
+Represents:
+Trust, professionalism, stability, technology
+
+---
+
+## Luxury Gold
+
+HEX: #C5A059
+
+Purpose:
+
+* Accent color
+* Premium highlights
+* CTA emphasis
+* Ratings
+* Badges
+* Active states
+
+Represents:
+Luxury, exclusivity, premium hospitality
+
+Rule:
+Use sparingly.
+Gold should never dominate the interface.
+
+---
+
+## Off White
+
+HEX: #FAFAFA
+
+Purpose:
+
+* Main background
+* Sections
+* Dashboard content area
+
+Represents:
+Cleanliness, openness, luxury
+
+---
+
+## Warm Beige
+
+HEX: #D4C5A9
+
+Purpose:
+
+* Soft highlights
+* Premium sections
+* Decorative backgrounds
+
+---
+
+## Cream
+
+HEX: #F5F5DC
+
+Purpose:
+
+* Secondary background
+* Testimonial sections
+* Luxury content blocks
+
+---
+
+# Supporting Colors
+
+## Body Text
+
+HEX: #475569
+
+## Muted Text
+
+HEX: #94A3B8
+
+## Border Color
+
+HEX: #E5E7EB
+
+## White
+
+HEX: #FFFFFF
+
+---
+
+# Brand Color Ratio
+
+For Branding Materials:
+
+60% Navy (#1B3B5D)
+
+30% Off White (#FAFAFA)
+
+10% Gold (#C5A059)
+
+---
+
+# Website Color Ratio
+
+70% White / Off White
+
+20% Navy
+
+10% Gold
+
+Reason:
+Luxury hotel websites should feel clean, spacious, and premium.
+Too much dark color makes the experience feel heavy.
+
+---
+
+# Logo Usage
+
+Primary Logo:
+Navy + Gold
+
+Dark Background Logo:
+White + Gold
+
+Light Background Logo:
+Navy + Gold
+
+Favicon:
+HO Monogram
+
+App Icon:
+HO Monogram
+
+---
+
+# Typography
+
+Headings:
+Sora Bold
+
+Alternative:
+Manrope SemiBold
+
+Body Text:
+Inter
+
+Font Weights:
+400
+500
+600
+700
+
+---
+
+# Button System
+
+Primary Button
+
+Background:
+#1B3B5D
+
+Text:
+#FFFFFF
+
+Hover:
+#15304A
+
+Usage:
+Book Now
+Search Hotels
+Reserve Room
+
+---
+
+Secondary Button
+
+Background:
+Transparent
+
+Border:
+#1B3B5D
+
+Text:
+#1B3B5D
+
+Usage:
+Learn More
+View Details
+
+---
+
+Premium Button
+
+Background:
+#C5A059
+
+Text:
+#FFFFFF
+
+Hover:
+#B38D45
+
+Usage:
+Luxury Suite
+Premium Offer
+VIP Booking
+
+---
+
+# Navbar
+
+Background:
+rgba(255,255,255,0.9)
+
+Blur:
+20px
+
+Text:
+#1B3B5D
+
+Active Link:
+#C5A059
+
+---
+
+# Hero Section
+
+Background:
+Luxury Hotel Photography
+
+Overlay:
+rgba(27,59,93,0.55)
+
+Heading:
+#FFFFFF
+
+Subheading:
+#FAFAFA
+
+CTA:
+#C5A059
+
+---
+
+# Card Design
+
+Background:
+#FFFFFF
+
+Border:
+#E5E7EB
+
+Shadow:
+0 10px 30px rgba(0,0,0,0.08)
+
+Border Radius:
+16px
+
+---
+
+# Dashboard
+
+Sidebar:
+#1B3B5D
+
+Sidebar Text:
+#FFFFFF
+
+Active Menu:
+#C5A059
+
+Dashboard Background:
+#FAFAFA
+
+Cards:
+#FFFFFF
+
+---
+
+# Status Colors
+
+Success:
+#10B981
+
+Warning:
+#F59E0B
+
+Error:
+#EF4444
+
+Info:
+#3B82F6
+
+---
+
+# Design Principles
+
+* Use white space generously
+* Gold is an accent, not a primary color
+* Prioritize readability over decoration
+* Maintain a luxury hospitality feel
+* Avoid excessive gradients
+* Avoid neon colors
+* Prefer subtle animations
+* Keep interfaces clean and premium
+
+---
+
+# Final Color Palette
+
+Primary Navy      : #1B3B5D
+Luxury Gold       : #C5A059
+Off White         : #FAFAFA
+Warm Beige        : #D4C5A9
+Cream             : #F5F5DC
+
+Body Text         : #475569
+Muted Text        : #94A3B8
+Border            : #E5E7EB
+White             : #FFFFFF
+
+Success           : #10B981
+Warning           : #F59E0B
+Error             : #EF4444
+Info              : #3B82F6
